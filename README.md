@@ -41,6 +41,6 @@ Painel de inteligência comercial para o mercado de veículos de luxo, com os pr
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](COLE_AQUI_O_LINK_DO_SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nivea-polaro-4631bb403)
 
 Aberta a oportunidades como **Analista de Dados** ou **Cientista de Dados Júnior**.
