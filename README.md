@@ -38,6 +38,7 @@ Painel de inteligência comercial para o mercado de veículos de luxo, com os pr
 - **Visão de negócio:** 10 anos lidando com metas e resultados de vendas
 - **Base estatística sólida:** inferência, modelagem e interpretação de dados
 - **Comunicação:** traduzo análises técnicas em decisões claras
+- **Visão de ponta a ponta:** com a pós em Fullstack, além de analisar os dados, construo a aplicação que entrega a análise, como dashboards web
 
 ## 📫 Contato
 
